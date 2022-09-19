@@ -9,5 +9,6 @@ Un blog increíble para el curso de Git y Github de [**Platzi**](https://platzi.
 * Trucos muy locos del profesor
 * Creado por el increible Platzi team
 * Incliye ejemplos en Windows, Linux y Mac
+* Disponible para todas la edades
 
 Como recordatioro: **Este readme es una practica**. Diseñado para ejemplo. NO TE LO TOMES EN SERIO. Si te interesa puedes [**entrar al curso**](https://platzi.com/cursos/git-github/?utm_source=google&utm_medium=cpc&utm_campaign=12455641569&utm_adgroup=121414433187&utm_content=593667798922&gclid=EAIaIQobChMIkYfEnLGh-gIVleSGCh2FFwpFEAAYASABEgL7DvD_BwE&gclsrc=aw.ds "entrar al curso").
